@@ -35,30 +35,6 @@
       "cast": ["Charming Lead", "Enchanting Love Interest"],
       "thumbnail": "https://www.digitaltrends.com/wp-content/uploads/2023/06/oLRQP5cEjiT1DxeIHUYEV96Ijum.jpg?p=1#038;p=1.jpg",
       "video_url": "https://example.com/videos/romantic-retreat.mp4"
-    },
-    {
-      "id": 4,
-      "title": "The Space Odyssey",
-      "description": "Astronauts embark on a perilous journey to the far reaches of the galaxy.",
-      "genre": "Sci-Fi",
-      "duration": "2h 30m",
-      "release_year": 2019,
-      "director": "Sci-Fi Maestro",
-      "cast": ["Courageous Astronaut", "Brilliant Scientist"],
-      "thumbnail": "https://www.digitaltrends.com/wp-content/uploads/2023/05/hYR2doH3arnX0Y6WULuBPbtaLjN.jpg?p=1#038;p=1.jpg",
-      "video_url": "https://example.com/videos/space-odyssey.mp4"
-    },
-    {
-      "id": 5,
-      "title": "The Great Heist",
-      "description": "A team of skilled thieves plots an elaborate bank robbery.",
-      "genre": "Crime",
-      "duration": "2h 15m",
-      "release_year": 2020,
-      "director": "Mastermind Director",
-      "cast": ["Master Thief 1", "Master Thief 2", "Master Thief 3"],
-      "thumbnail": "https://www.digitaltrends.com/wp-content/uploads/2023/05/qgZuXiDAkXdARlsDzQwmrCpkqpL.jpg?p=1#038;p=1.jpg",
-      "video_url": "https://example.com/videos/great-heist.mp4"
     }
   ]
 }
