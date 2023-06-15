@@ -1,0 +1,40 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Adventures of ChatGPT",
+      "description": "Join ChatGPT on an exciting journey through the world of artificial intelligence.",
+      "genre": "Sci-Fi",
+      "duration": "1h 45m",
+      "release_year": 2022,
+      "director": "AI Director",
+      "cast": ["ChatGPT", "AI Actor 1", "AI Actor 2"],
+      "thumbnail": "https://example.com/thumbnails/adventures-of-chatgpt.jpg",
+      "video_url": "https://example.com/videos/adventures-of-chatgpt.mp4"
+    },
+    {
+      "id": 2,
+      "title": "The Secret Code",
+      "description": "A young programmer discovers a hidden code that can change the world.",
+      "genre": "Thriller",
+      "duration": "2h 10m",
+      "release_year": 2021,
+      "director": "Mystery Director",
+      "cast": ["Programmer Protagonist", "Mysterious Character"],
+      "thumbnail": "https://example.com/thumbnails/secret-code.jpg",
+      "video_url": "https://example.com/videos/secret-code.mp4"
+    },
+    {
+      "id": 3,
+      "title": "Romantic Retreat",
+      "description": "Love blossoms in a picturesque countryside retreat.",
+      "genre": "Romance",
+      "duration": "1h 55m",
+      "release_year": 2023,
+      "director": "Romantic Director",
+      "cast": ["Charming Lead", "Enchanting Love Interest"],
+      "thumbnail": "https://example.com/thumbnails/romantic-retreat.jpg",
+      "video_url": "https://example.com/videos/romantic-retreat.mp4"
+    }
+  ]
+}
